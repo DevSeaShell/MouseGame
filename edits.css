@@ -1,12 +1,32 @@
 #title {
     padding: 10px;
     margin: auto;
-    width: 50%;
+    width: 14%;
     color: black;
-    background-color: aliceblue;
+    background-color:aliceblue;
 
 }
 
 body {
     background-color: darkslategray;
+}
+
+.menu {
+    overflow: auto;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.menu a:hover {
+    font-weight: unset;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+
+.menu a{
+    color: black;
+    float: left;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
 }
