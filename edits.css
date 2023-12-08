@@ -1,10 +1,9 @@
 #title {
     padding: 10px;
     margin: auto;
-    width: 14%;
+    width: 15%;
     color: black;
     background-color:aliceblue;
-
 }
 
 body {
@@ -29,4 +28,12 @@ body {
     padding: 10px;
     font-weight: bold;
     font-size: 20px;
+}
+
+.welcometext{
+
+}
+
+.pic{  
+    float: right;
 }
