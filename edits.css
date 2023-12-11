@@ -16,6 +16,10 @@ body {
     background-color: aliceblue;
 }
 
+.wto{
+    color: aliceblue;
+}
+
 .menu a:hover {
     font-weight: unset;
     font-weight: bold;
@@ -31,7 +35,7 @@ body {
 }
 
 .welcometext{
-
+    color: aliceblue;
 }
 
 .pic{  
