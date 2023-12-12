@@ -34,10 +34,23 @@ body {
     font-size: 20px;
 }
 
+.active{
+    background-color: antiquewhite;
+}
+
 .welcometext{
     color: aliceblue;
 }
 
 .pic{  
     float: right;
+}
+
+#storytitle{
+    color: aliceblue;
+    margin-left: 43%;
+}
+
+#storytext1{
+    color: aliceblue;
 }
